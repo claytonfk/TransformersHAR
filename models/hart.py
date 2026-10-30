@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 18 03:05:04 2024
 
-@AzizaZhanabatyrova
+@AzizaZhanabatyrova 
 """
 
 
